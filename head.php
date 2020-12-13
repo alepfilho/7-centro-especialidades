@@ -20,4 +20,5 @@
   <!-- Style CSS -->
   <link rel="stylesheet" href="css/style.css" />
   <title>Sete Centro de Especialidades Médicas</title>
+  <link rel="shortcut icon" href="favicon.png" />
 </head>

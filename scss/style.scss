@@ -547,6 +547,7 @@ a:focus {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  flex-wrap: wrap;
 
   li {
     position: relative;
@@ -583,6 +584,10 @@ a:focus {
 
 .form-btn {
   margin-right: 0 !important;
+
+  @media (min-width: 500px) {
+    width: 30% !important;
+  }
 
   a {
     width: 100%;

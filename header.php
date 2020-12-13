@@ -32,7 +32,7 @@
                       <a class="nav-link" href="#">Contato</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link btn btn-outline-primary appointment-btn-top" href="appointment.html">Endereço</a>
+                      <a class="nav-link btn btn-outline-primary appointment-btn-top" href="#">Whatsapp</a>
                     </li>
                   </ul>
                 </div>
